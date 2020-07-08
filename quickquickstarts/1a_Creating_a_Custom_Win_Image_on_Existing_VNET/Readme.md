@@ -56,7 +56,7 @@ $currentAzContext = Get-AzContext
 $imageResourceGroup="aibImageRG"
 
 # location (see possible locations in main docs)
-$location="westus2"
+$location="westeurope"
 
 ## if you need to change your subscription: Get-AzSubscription / Select-AzSubscription -SubscriptionName 
 
