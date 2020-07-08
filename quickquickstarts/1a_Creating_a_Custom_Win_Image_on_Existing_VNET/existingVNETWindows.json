@@ -51,7 +51,7 @@
                         "subnetName": '<subnetName>',
                         "resourceGroupName":'<vnetRgName>'
                     }
-                }
+                },
             },
 
         "source": {
