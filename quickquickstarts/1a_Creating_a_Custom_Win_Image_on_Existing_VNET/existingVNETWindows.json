@@ -47,9 +47,9 @@
                     "vmSize": "Standard_D2_v2",
                     "osDiskSizeGB": 127,
                     "vnetConfig": {
-                        "name": "myexistingvnet01",
-                        "subnetName": "subnet01",
-                        "resourceGroupName": "existingVnetRG"
+                        "name": "<vnetName>",
+                        "subnetName": "<subnetName>",
+                        "resourceGroupName":"<vnetRgName>"
                     }
                 }
             },
