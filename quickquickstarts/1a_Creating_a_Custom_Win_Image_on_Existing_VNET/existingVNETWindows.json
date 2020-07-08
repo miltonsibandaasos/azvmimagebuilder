@@ -44,12 +44,10 @@
             "vmSize": "Standard_D2_v2",
             "osDiskSizeGB": 127,
             "vnetConfig": {
-                    "vmSize": "Standard_D2_v2",
-                    "osDiskSizeGB": 127,
-                    "vnetConfig": {
                 "name": "<vnetName>",
                 "subnetName": "<subnetName>",
                 "resourceGroupName": "<vnetRgName>"
+            }
             },
 
         "source": {
